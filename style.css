@@ -42,14 +42,23 @@ a.navcolor, a.navcolor:hover {
     margin: 0;
 }
 
+#us {
+	margin-top: 60px;
+}
+
 #second {
-	background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2013/01/23/30874/50940818be5cfe41359e1e7f2449d1b1.jpg);
+	background-image: url(https://i.gyazo.com/df3cd691b121c02ea72b699bbd5da77b.jpg);
 	background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
     height: 1080px;
     margin: 0;
+}
+
+#ussr {
+	display: block;
+	margin-top: 60px;
 }
 
 #third {
@@ -62,8 +71,26 @@ a.navcolor, a.navcolor:hover {
     margin: 0;
 }
 
+#uk {
+	margin-top: 60px;
+}
+
 #fourth {
 	background-image: url(http://www.hdwallpap.com/wp-content/uploads/2014/02/world-of-tanks-autumn-HD.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1080px;
+    margin: 0;
+}
+
+#germany {
+	margin-top: 60px;
+}
+
+#fifth {
+	background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2013/01/23/30874/50940818be5cfe41359e1e7f2449d1b1.jpg);
 	background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
